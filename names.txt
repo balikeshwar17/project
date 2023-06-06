@@ -1,5 +1,1 @@
-arun
-shyam
-ram
-hari 
-ravan
+names.txt is changed
